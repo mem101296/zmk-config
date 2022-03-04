@@ -73,8 +73,8 @@
 		
 		sys_layer {
 		bindings = <
-		&kp F1  &kp F2    &kp F3    &kp F4    &kp F5 			&kp F6 &kp F7   &kp F8   &kp F9  &kp F0
-		&none &bt BT_NXT &none &bt BT_PRV &none 						&none &none  &none &none &mt LG(LS(F)) 
+		&kp F1  &kp F2    &kp F3    &kp F4    &kp F5 			&kp F6 &kp F7   &kp F8   &kp F9  &kp F10
+		&none &bt BT_NXT &none &bt BT_PRV &none 						&kp F11 &kp F12  &none &none &mt LG(LS(F)) 
 		&kp DEL &none &none &none &none   				&bt BT_CLR &none  &none  &none &kp LA(F2)   
 					 &mo 0 &none  					&mo 1 &mo 2
 		>;
