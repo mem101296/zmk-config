@@ -1,3 +1,3 @@
-ZMK Config for Ferris
+Fork of ZMK Config for Ferris, and a fork of Ben Vallacks zmk-config repo.
 
-Experimental, various size layouts in the revision history.
+Custom based layout designed for i3 and other tiling window managers.
